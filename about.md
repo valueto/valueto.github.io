@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## Software development team, Valueto SW
+## Valueto SW
 
 
-### Location: Seoul, Republic of Korea
+Software development team, 
 
 
-### Products
+## Location
+
+
+Seoul, Republic of Korea
+
+
+## Products
 
 
  - Average price calculator for stock & coin (2021)
